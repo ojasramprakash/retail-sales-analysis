@@ -1,0 +1,12 @@
+# generated database (rebuild any time with: python scripts/load_to_sqlite.py)
+db/*.db
+
+# python
+__pycache__/
+*.pyc
+
+# streamlit
+.streamlit/
+
+# OS
+.DS_Store
