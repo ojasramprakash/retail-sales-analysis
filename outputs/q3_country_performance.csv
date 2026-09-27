@@ -1,0 +1,11 @@
+country,customers,orders,revenue,pct_of_revenue
+United Kingdom,3920,16646,7308391.55,82.01
+Netherlands,9,94,285446.34,3.2
+EIRE,3,260,265545.9,2.98
+Germany,94,457,228867.14,2.57
+France,87,389,209024.05,2.35
+Australia,9,57,138521.31,1.55
+Spain,30,90,61577.11,0.69
+Switzerland,21,51,56443.95,0.63
+Belgium,25,98,41196.34,0.46
+Sweden,8,36,38378.33,0.43

@@ -1,0 +1,4 @@
+segment,customers,total_revenue,avg_revenue_per_customer,pct_of_revenue
+Loyal (6+ orders),872,5905896.04,6772.82,66.3
+Repeat (2-5 orders),1973,2389200.13,1210.95,26.8
+One-time buyer,1493,616311.73,412.8,6.9
